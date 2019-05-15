@@ -1,0 +1,47 @@
+
+h4{
+    color:blue;
+}
+
+body{
+    background-color: rgb(230,230,230);
+/* text color */
+    color: rgb(20,20,20);
+/* font */
+    font-family: Arial, Helvetica, Verdana, Arial, sans-serif;
+    font-size: 12px;
+    font-weight: normal;
+    /* distance between lines */
+    line-height: 1.6em;
+
+}
+
+.container {
+    width: 80%;
+/*    margin: auto; */
+}
+.box-1{
+    background-color: rgb(255,255,255);
+    color: rgb(0,0,0);
+
+    /* top right bottom left*/
+    margin: 5px 10px 5px 10px;
+    /* margin is outside the box. Pading is inside the box*/
+    border:5px red solid;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
